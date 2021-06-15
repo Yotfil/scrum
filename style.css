@@ -108,6 +108,7 @@ HEADER
 .showSlide {
 	opacity: 1;
 	display: block;
+	min-width: 1200px;
 }
 .board {
 	width: 55%;
